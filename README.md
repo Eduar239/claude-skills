@@ -132,7 +132,7 @@ Then just ask Claude what you need — installed skills trigger automatically fr
 
 Use [Anthropic's official skill-creator](https://github.com/anthropics/skills) or ask Claude: "Create a new skill for [use case]"
 
-See [CLAUDE.md](CLAUDE.md) for development conventions.
+See [SKILL_SHAPE.md](SKILL_SHAPE.md) for the authoring shape (frontmatter, sections, what to leave out) and [CLAUDE.md](CLAUDE.md) for repo development conventions.
 
 ## History
 

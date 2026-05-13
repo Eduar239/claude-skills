@@ -154,7 +154,9 @@ plugin-name/
 
 ## Creating a Skill
 
-Use [Anthropic's official skill-creator](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) or ask Claude: "Create a new skill for [use case]"
+See [`SKILL_SHAPE.md`](SKILL_SHAPE.md) for the canonical authoring guide — frontmatter, sections in order, what earns its place, what to leave out, trimming pass for existing skills.
+
+Quick start: use [Anthropic's official skill-creator](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) or ask Claude: "Create a new skill for [use case]"
 
 Key principle: **every skill must produce something.** If it's just reference material Claude already knows, it doesn't earn a place here.
 
