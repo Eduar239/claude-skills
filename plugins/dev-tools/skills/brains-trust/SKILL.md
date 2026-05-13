@@ -1,18 +1,6 @@
 ---
 name: brains-trust
-description: >
-  Get a second opinion from leading AI models on code, architecture, strategy, prompting, or anything.
-  Queries models via OpenRouter, Gemini, or OpenAI APIs. Supports single opinion, multi-model consensus,
-  and devil's advocate patterns. Trigger with 'brains trust', 'second opinion', 'ask gemini', 'ask gpt',
-  'peer review', 'consult', 'challenge this', or 'devil's advocate'.
-triggers:
-  - brains trust
-  - second opinion
-  - ask gemini
-  - ask gpt
-  - peer review
-  - consult
-  - challenge this
+description: "Get a second opinion from leading AI models on code, architecture, strategy, prompting, or anything. Queries models via OpenRouter, Gemini, or OpenAI APIs. Supports single opinion, multi-model consensus, and devil's advocate patterns. Use whenever the user says 'brains trust', 'second opinion', 'ask gemini', 'ask gpt', 'peer review', 'consult another model', 'challenge this', or 'devil's advocate'."
   - devil's advocate
   - what does gemini think
   - what does gpt think
